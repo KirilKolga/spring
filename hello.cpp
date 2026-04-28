@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-std::string name = "Arppa";
+std::string name = "Kirppari";
 
 int main()
 {
