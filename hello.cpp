@@ -8,7 +8,7 @@ std::string askForName()
 
     while (true)
     {
-        std::cout << "Add your name here: ";
+        std::cout << "*Add your name here: ";
         std::cin >> name;
 
         if (std::cin.fail())
