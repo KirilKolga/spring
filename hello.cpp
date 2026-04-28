@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-
-std::string name = "Kirppari";
+#include <vector>
 
 int main()
 {
