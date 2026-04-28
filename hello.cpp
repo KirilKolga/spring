@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
-<<<<<<< HEAD
 #include <vector>
-=======
 
 std::string askForName()
 {
@@ -24,7 +22,6 @@ std::string askForName()
 
     return name;
 }
->>>>>>> function
 
 int main()
 {
